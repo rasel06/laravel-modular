@@ -1,0 +1,8 @@
+// Modular Concept
+https://github.com/akaunting/laravel-module
+
+
+// ACL 
+https://www.itsolutionstuff.com/post/laravel-8-user-roles-and-permissions-tutorialexample.html
+
+
