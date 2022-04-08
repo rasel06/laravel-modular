@@ -6,3 +6,8 @@ https://github.com/akaunting/laravel-module
 https://www.itsolutionstuff.com/post/laravel-8-user-roles-and-permissions-tutorialexample.html
 
 
+
+// Sanctum 
+https://codebriefly.com/laravel-sanctum-restful-api-authentication/
+
+
